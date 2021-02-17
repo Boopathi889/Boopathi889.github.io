@@ -1,0 +1,76 @@
+
+            .Title {
+                position: relative;
+                top: 0px;
+		z-index:1;
+            }
+            
+            .Logo {
+                position: relative;
+		float:right;
+                top: -55px;
+		left:-10px;
+		z-index:2;
+            }
+            
+            .Heading {
+                font-size: 25px;
+                position: relative;
+		text-align:center;
+                top: -75px;
+		z-index:2;
+            }
+.Cluster
+{
+--ni-border: none;
+}
+.scale1 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.scale2 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.scale3 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.scale4 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.scale5 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.scale6 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.scale7 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.scale8 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.scale9 {
+    --ni-border: none;
+    --ni-indicator-background-color: transparent;
+}
+.inf2 {
+    --ni-border: none;
+  --ni-indicator-background-color: transparent;
+}
+.inf1 {
+    --ni-border: none;
+  --ni-indicator-background-color: transparent;
+}
+.FC_UUT_Cluster
+{
+--ni-border: none;
+}
+	    
+           
